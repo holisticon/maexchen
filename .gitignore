@@ -4,8 +4,10 @@
 client/coffee-script-simple-bot/node_modules/
 
 *.im?
-.idea
+.idea/
 *.pid
 *.out
 target
 __pycache__/
+
+server/package-lock.json

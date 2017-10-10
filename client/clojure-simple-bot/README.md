@@ -6,7 +6,7 @@ for details.
 # Dependencies
 
 * [Leiningen]: http://leiningen.org/
-* [de.andrena/udp-helper 1.+]: https://github.com/janernsting/maexchen/tree/master/client/java-udp-helper (gradle install)
+* [udp-helper/udp-helper 1.+]: https://github.com/janernsting/maexchen/tree/master/client/java-udp-helper (gradle install)
 * [org.clojure/tools.namespace "0.2.4"]: optional, remove profile :dev if not required
 
 ## Usage
@@ -33,4 +33,3 @@ Do whatever you like but don't blame me license.
 Thanks for the maexchen project.
 
 conradmueller, janernsting, ggramlich, franziskas
-
